@@ -1,4 +1,4 @@
-# Webpack Truffle Box
+# Test Truffle Box
 
 This box it our most bare official implementation with Webpack. Includes contracts, migrations, tests, user interface and webpack build pipeline.
 
